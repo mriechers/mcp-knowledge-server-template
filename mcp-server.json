@@ -9,5 +9,5 @@
   ],
   "type": "stdio",
   "notes": "Template MCP server for domain-specific knowledge bases. Fork and customize config.py for your domain.",
-  "scope": "project"
+  "scope": "global"
 }

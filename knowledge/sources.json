@@ -4,7 +4,7 @@
       "category": "example-topic",
       "slug": "example",
       "url": "https://example.com/docs",
-      "notes": "Example source — replace with your own",
+      "notes": "Example source \u2014 replace with your own",
       "tier": 1,
       "refresh_cadence": "monthly"
     }

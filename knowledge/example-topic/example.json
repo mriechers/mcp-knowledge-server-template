@@ -2,9 +2,9 @@
   "url": "https://example.com/docs",
   "category": "example-topic",
   "slug": "example",
-  "retrieved_at": "2025-01-01T00:00:00+00:00",
-  "notes": "Example source — replace with your own",
-  "status_code": 200,
+  "retrieved_at": "2026-05-01T08:08:56.410277+00:00",
+  "notes": "Example source \u2014 replace with your own",
+  "status_code": 404,
   "success": true,
-  "content_length": 0
+  "content_length": 528
 }
